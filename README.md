@@ -3,7 +3,7 @@
 
 
 
-##### 📝 Used Skills & Tools
+### 📝 Used Skills & Tools
 Skills
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 	![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
@@ -16,5 +16,5 @@ Tool
 
 
 
-##### 😀Contact
+### 😀Contact
 ![Mail](https://img.shields.io/badge/yeo.dh22@daum.net-4285F4.svg?style=flat-square&logo=Mail.Ru&logoColor=white)
